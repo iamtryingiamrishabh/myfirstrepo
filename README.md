@@ -1,1 +1,2 @@
 # myfirstrepo
+author - rishabh gupta
